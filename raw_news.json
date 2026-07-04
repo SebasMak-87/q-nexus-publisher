@@ -1,0 +1,58 @@
+[
+    {
+        "category": "hardware",
+        "source": "ServeTheHome",
+        "title": "ASRock Rack Had One of the First Arm AGI Servers at Computex 2026",
+        "link": "https://www.servethehome.com/asrock-rack-had-one-of-the-first-arm-agi-servers-at-computex-2026/",
+        "summary": "At Computex 2026 we came across one of the first servers based around Arm's new AGI server CPU. ASRock Rack had their 1U4E1S-ARM, a 1U single-socket server that will be the backbone of future data center systems The post ASRock Rack Had One of the First Arm AGI Servers at Computex 2026 appeared first on ServeTheHome.",
+        "published": "Fri, 03 Jul 2026 17:00:43 +0000"
+    },
+    {
+        "category": "hardware",
+        "source": "Latest from Tom's Hardware",
+        "title": "Turtle Beach KP7 Review: The accessory that does everything",
+        "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/turtle-beach-kp7-review",
+        "summary": "Turtle Beach's KP7 keypad can be used with its KB7 keyboard or as a standalone macropad. And it's nice — but pricey.",
+        "published": "Fri, 03 Jul 2026 16:26:03 +0000"
+    },
+    {
+        "category": "hardware",
+        "source": "Latest from Tom's Hardware",
+        "title": "Intel reportedly adding two new 22-core SKUs with game-boosting cache to Nova Lake-S lineup — 125W unlocked and 65W locked part rumored to be part of single-tile Core Ultra 5 tier",
+        "link": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-adding-two-new-22-core-skus-with-game-boosting-cache-to-nova-lake-s-lineup-125w-unlocked-and-65w-locked-part-rumored-to-be-part-of-single-tile-core-ultra-5-tier",
+        "summary": "Intel is apparently cooking up two new 22-core Nova Lake-S SKUs with up to 144MB of bLLC. One is a locked 65W variant and one is an unlocked 125W part, and both are said to be part of the Core Ultra 5 tier.",
+        "published": "Fri, 03 Jul 2026 15:44:10 +0000"
+    },
+    {
+        "category": "science_and_quantum",
+        "source": "Quantum Physics News",
+        "title": "Plug-and-play single-photon source can work at room temperature",
+        "link": "https://phys.org/news/2026-07-play-photon-source-room-temperature.html",
+        "summary": "The Korea Research Institute of Standards and Science (KRISS) has developed a room-temperature single-photon source built into a compact 19-inch rack-mounted device that operates without cryogenic cooling. Designed as a plug-and-play system that works as soon as it is powered on, the device moves quantum light source technology beyond the laboratory and closer to practical, onsite use.",
+        "published": "Fri, 03 Jul 2026 18:40:01 EDT"
+    },
+    {
+        "category": "science_and_quantum",
+        "source": "Quantum Physics News",
+        "title": "Ultrafast scanning tunneling microscopy reaches the quantum mechanical space-time limit for the first time",
+        "link": "https://phys.org/news/2026-07-ultrafast-scanning-tunneling-microscopy-quantum.html",
+        "summary": "Werner Heisenberg's famous uncertainty principle describes one of the most intriguing features of quantum physics: certain pairs of physical quantities describing a particle, such as position and momentum, cannot simultaneously be determined with arbitrary precision—not because of imprecise measuring instruments, but because nature forbids it. Between position and time, however, there is no Heisenberg uncertainty principle.",
+        "published": "Fri, 03 Jul 2026 12:00:06 EDT"
+    },
+    {
+        "category": "science_and_quantum",
+        "source": "Quantum Computers News -- ScienceDaily",
+        "title": "Scientists say quantum tech has reached its transistor moment",
+        "link": "https://www.sciencedaily.com/releases/2026/01/260127010136.htm",
+        "summary": "Quantum technology has reached a turning point, echoing the early days of modern computing. Researchers say functional quantum systems now exist, but scaling them into truly powerful machines will require major advances in engineering and manufacturing. By comparing different quantum platforms, the study reveals both impressive progress and steep challenges ahead. History suggests the payoff could be enormous—but not immediate.",
+        "published": "Tue, 27 Jan 2026 06:17:54 EST"
+    },
+    {
+        "category": "science_and_quantum",
+        "source": "Quantum Computers News -- ScienceDaily",
+        "title": "Unbreakable? Researchers warn quantum computers have serious security flaws",
+        "link": "https://www.sciencedaily.com/releases/2026/01/260120000330.htm",
+        "summary": "Quantum computers could revolutionize everything from drug discovery to business analytics—but their incredible power also makes them surprisingly vulnerable. New research from Penn State warns that today’s quantum machines are not just futuristic tools, but potential gold mines for hackers. The study reveals that weaknesses can exist not only in software, but deep within the physical hardware itself, where valuable algorithms and sensitive data may be exposed.",
+        "published": "Tue, 20 Jan 2026 09:03:36 EST"
+    }
+]
