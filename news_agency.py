@@ -1,13 +1,19 @@
 import os
+from dotenv import load_dotenv
 from crewai import Agent, Task, Crew, Process
 from crewai.tools import tool 
-from langchain_google_genai import ChatGoogleGenerativeAI # 👈 ИМПОРТ МОСТА К GEMINI
+from langchain_google_genai import ChatGoogleGenerativeAI 
 from duckduckgo_search import DDGS 
+
+# Завантажуємо ключі з сейфа .env
+load_dotenv()
 
 # ==========================================
 # 🔑 НАСТРОЙКА МОЗГА (Внешний API - GEMINI)
 # ==========================================
-os.environ["GOOGLE_API_KEY"] = "YOUR_GEMINI_API_KEY"
+os.environ["GOOGLE_API_KEY"] = os.getenv("GEMINI_API_KEY", "")
+
+# Далі йде твій код ініціалізації llm...
 
 # Инициализируем мозг Gemini (модель 2.5 Flash - идеальна для быстрых Агентов)
 llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.7)
